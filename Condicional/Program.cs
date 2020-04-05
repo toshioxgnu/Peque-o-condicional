@@ -8,14 +8,12 @@ namespace Condicional
         {
             int edad;
             Console.WriteLine("Ingrese su edad para poder ingresar a la pagina malula");
-            edad = Console.Read();
-            var edadint = Convert.ToInt32(edad);
+            edad = Convert.ToInt32(Console.ReadLine());
 
-            if (edadint < 18)
+            if (edad < 18)
             {
                 Console.WriteLine("Eres muy pequeño prueba de nuevo ");
-                edad = Console.Read();
-                edadint = Convert.ToInt32(edad);
+                edad = Convert.ToInt32(Console.ReadLine());
             }
             else
             {

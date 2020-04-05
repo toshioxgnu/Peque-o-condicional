@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63950fd6-8894-49cd-b5a6-7ad91615bd70" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Condicional.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Condicional/Condicional.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Condicional/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Condicional/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Condicional/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Condicional/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Condicional/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586111973840</updated>
-      <workItem from="1586111975224" duration="621000" />
+      <workItem from="1586111975224" duration="1210000" />
     </task>
     <servers />
   </component>
@@ -89,22 +87,22 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1586112764352">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1586112980262">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1586112764352" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1586112764352">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1586112980262" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1586112980262">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1586112764352" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1586112764352">
+    <state width="1877" height="295" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1586112980262" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1586112980261">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1586112764352" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1586112764352">
+    <state width="1877" height="295" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1586112980261" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1586112980262">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1586112764352" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1586112980262" />
     <state x="2472" y="272" key="Rider.ProjectTemplateDialog.Size" timestamp="1586111974035">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
